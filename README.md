@@ -51,4 +51,5 @@ Facebook engineering interview process
 - [ ] [Airbnb JavaScript Style Guide() {](https://github.com/airbnb/javascript)
 - [ ] [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [ ] [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 - [ ] [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
