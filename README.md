@@ -35,7 +35,11 @@ Facebook engineering interview process
 - [ ] [CoderPad](https://coderpad.io/)
 
 ## Other links:
+- [ ] [The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steve-Skiena/dp/0387948600)
+- [ ] [A Facebook developer shares 7 secrets to acing an engineering interview](https://www.businessinsider.com/how-to-prepare-for-facebook-engineering-interview-2016-3)
 - [ ] [Why did we build React?](https://reactjs.org/blog/2013/06/05/why-react.html)
+
+## JavaScript Language
 - [ ] [Learn JavaScript | MDN](https://developer.mozilla.org/en-US/Learn/JavaScript)
 - [ ] [A re-introduction to JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [ ] [The Modern JavaScript Tutorial](http://javascript.info)
@@ -44,5 +48,7 @@ Facebook engineering interview process
 - [ ] [Understanding ES6](https://leanpub.com/understandinges6/read)
 - [ ] [Learning Advanced JavaScript](http://ejohn.org/apps/learn)
 - [ ] [5 Typical JavaScript Interview Exercises](https://www.sitepoint.com/5-typical-javascript-interview-exercises/)
-- [ ] [The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steve-Skiena/dp/0387948600)
-- [ ] [A Facebook developer shares 7 secrets to acing an engineering interview](https://www.businessinsider.com/how-to-prepare-for-facebook-engineering-interview-2016-3)
+- [ ] [Airbnb JavaScript Style Guide() {](https://github.com/airbnb/javascript)
+- [ ] [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+- [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [ ] [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
