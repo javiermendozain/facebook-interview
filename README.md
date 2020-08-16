@@ -7,17 +7,17 @@ Facebook engineering interview process
 - [ ] [CareerCup](https://www.careercup.com/page?pid=facebook-interview-questions)
 
 ## Events
-- [ ] [Master Your FB Interview](http://www.eventbrite.com/o/facebook-london-master-your-fb-interview-8037667565)
+- [x] [Master Your FB Interview](http://www.eventbrite.com/o/facebook-london-master-your-fb-interview-8037667565)
 
 ## Facebook
 - [ ] [Facebook Bootcamp](https://www.businessinsider.com/inside-facebook-engineer-bootcamp-2016-3)
 - [ ] [Facebook Engineering and Open Source](https://code.fb.com/tag/frontend/)
-- [ ] [Preparing for Your Software Engineering Interview at Facebook](https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook)
+- [x] [Preparing for Your Software Engineering Interview at Facebook](https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook)
 - [ ] [Facebook News and Statistics](https://newsroom.fb.com/)
 
 ## Process
 - [ ] [Preparing for Your Initial Interview at Facebook](https://www.facebook.com/careers/FEE-prep-initial)
-- [ ] [Software Engineering: Initial Technical Interview](https://www.facebook.com/careers/life/interview_prep_video/?token=gdHrKVHYSARPr81L88wQ3DU9VueyEqcnUzZSXOlp85dj3G4TMV7rkwPmPRQlBuAm&id=311151072319467)
+- [x] [Software Engineering: Initial Technical Interview](https://www.facebook.com/careers/life/interview_prep_video/?token=gdHrKVHYSARPr81L88wQ3DU9VueyEqcnUzZSXOlp85dj3G4TMV7rkwPmPRQlBuAm&id=311151072319467)
 - [ ] [I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
 
 ## Structure
@@ -26,10 +26,10 @@ Facebook engineering interview process
 - Design
 
 ## Videos
-- [ ] [Jackson Gabbard’s Youtube channel](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ)
-- [ ] [Recruiting process at Facebook](https://youtu.be/N233T0epWTs)
-- [ ] [Cracking the Facebook Coding Interview - The Approach](https://vimeo.com/interviewprepsession/theapproach) - FB_IPS
-- [ ] [Cracking the Facebook Coding Interview - Problem Walk-Through](https://vimeo.com/interviewprepsession/problemwalkthrough) - FB_IPS
+- [x] [Jackson Gabbard’s Youtube channel](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ)
+- [x] [Recruiting process at Facebook](https://youtu.be/N233T0epWTs)
+- [x] [Cracking the Facebook Coding Interview - The Approach](https://vimeo.com/interviewprepsession/theapproach) - FB_IPS
+- [x] [Cracking the Facebook Coding Interview - Problem Walk-Through](https://vimeo.com/interviewprepsession/problemwalkthrough) - FB_IPS
 
 ## Tools
 - [ ] [CoderPad](https://coderpad.io/)
