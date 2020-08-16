@@ -36,7 +36,7 @@ Facebook engineering interview process
 
 ## Other links:
 - [ ] [The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steve-Skiena/dp/0387948600)
-- [ ] [A Facebook developer shares 7 secrets to acing an engineering interview](https://www.businessinsider.com/how-to-prepare-for-facebook-engineering-interview-2016-3)
+- [x] [A Facebook developer shares 7 secrets to acing an engineering interview](https://www.businessinsider.com/how-to-prepare-for-facebook-engineering-interview-2016-3)
 - [ ] [Why did we build React?](https://reactjs.org/blog/2013/06/05/why-react.html)
 
 ## JavaScript Language
