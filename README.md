@@ -5,6 +5,10 @@ Facebook engineering interview process
 - [ ] [Leetcode](https://leetcode.com/problemset/all)
 - [ ] [HackerRank](https://www.hackerrank.com/test/61sq9qfa63d/06a0a3f1a21d17dbad04a24fb285b5ce)
 - [ ] [CareerCup](https://www.careercup.com/page?pid=facebook-interview-questions)
+- [ ] [HiredInTech](https://www.hiredintech.com/)
+- [ ] [CodeChef](https://www.codechef.com/)
+- [ ] [Proyect Euler](https://projecteuler.net/index.php)
+- [ ] [GeeksforGeeks](https://www.geeksforgeeks.org/facebook-interview-preparation/)
 
 ## Events
 - [x] [Master Your FB Interview](http://www.eventbrite.com/o/facebook-london-master-your-fb-interview-8037667565)
@@ -53,3 +57,8 @@ Facebook engineering interview process
 - [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [ ] [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 - [ ] [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
+
+## HelpFul Books
+- [ ] [Cracking the Coding Interview](https://www.amazon.com/dp/0984782850/)
+- [ ] [Introduction to Algorithms](https://www.amazon.com/dp/0262033844)
+- [ ] [Algorithms in C](https://www.amazon.com/Algorithms-Parts-1-5-Bundle-Fundamentals/dp/0201756080)
