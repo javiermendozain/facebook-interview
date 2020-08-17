@@ -20,7 +20,6 @@ Facebook engineering interview process
 - [ ] [Facebook News and Statistics](https://newsroom.fb.com/)
 - [ ] [Get that Job at Facebook](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920)
 - [ ] [Facebook Engineering Bootcamp](https://www.facebook.com/notes/facebook-engineering/facebook-engineering-bootcamp/177577963919/)
-- [ ] [Facebook Newsroom](https://about.fb.com/news/)
 - [ ] [Engineering Notes](https://www.facebook.com/pg/Engineering/notes/)
 
 ## Process
