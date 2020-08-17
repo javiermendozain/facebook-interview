@@ -18,6 +18,10 @@ Facebook engineering interview process
 - [ ] [Facebook Engineering and Open Source](https://code.fb.com/tag/frontend/)
 - [x] [Preparing for Your Software Engineering Interview at Facebook](https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook)
 - [ ] [Facebook News and Statistics](https://newsroom.fb.com/)
+- [ ] [Get that Job at Facebook](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920)
+- [ ] [Facebook Engineering Bootcamp](https://www.facebook.com/notes/facebook-engineering/facebook-engineering-bootcamp/177577963919/)
+- [ ] [Facebook Newsroom](https://about.fb.com/news/)
+- [ ] [Engineering Notes](https://www.facebook.com/pg/Engineering/notes/)
 
 ## Process
 - [ ] [Preparing for Your Initial Interview at Facebook](https://www.facebook.com/careers/FEE-prep-initial)
@@ -34,6 +38,8 @@ Facebook engineering interview process
 - [x] [Recruiting process at Facebook](https://youtu.be/N233T0epWTs)
 - [x] [Cracking the Facebook Coding Interview - The Approach](https://vimeo.com/interviewprepsession/theapproach) - FB_IPS
 - [x] [Cracking the Facebook Coding Interview - Problem Walk-Through](https://vimeo.com/interviewprepsession/problemwalkthrough) - FB_IPS
+- [ ] [How to Crush Your Coding Interview](https://www.facebook.com/Engineering/videos/10152735777427200/?v=10152735777427200)
+- [ ] [Facebook Mock Interview Prep (password: 2018prep) ](https://vimeo.com/275298962)
 
 ## Tools
 - [ ] [CoderPad](https://coderpad.io/)
@@ -58,7 +64,7 @@ Facebook engineering interview process
 - [ ] [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 - [ ] [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
 
-## HelpFul Books
+## Helpful Books
 - [ ] [Cracking the Coding Interview](https://www.amazon.com/dp/0984782850/)
 - [ ] [Introduction to Algorithms](https://www.amazon.com/dp/0262033844)
 - [ ] [Algorithms in C](https://www.amazon.com/Algorithms-Parts-1-5-Bundle-Fundamentals/dp/0201756080)
