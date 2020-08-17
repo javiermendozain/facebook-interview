@@ -23,7 +23,7 @@ Facebook engineering interview process
 - [ ] [Engineering Notes](https://www.facebook.com/pg/Engineering/notes/)
 
 ## Process
-- [ ] [Preparing for Your Initial Interview at Facebook](https://www.facebook.com/careers/FEE-prep-initial)
+- [x] [Preparing for Your Initial Interview at Facebook](https://www.facebook.com/careers/FEE-prep-initial)
 - [x] [Software Engineering: Initial Technical Interview](https://www.facebook.com/careers/life/interview_prep_video/?token=gdHrKVHYSARPr81L88wQ3DU9VueyEqcnUzZSXOlp85dj3G4TMV7rkwPmPRQlBuAm&id=311151072319467)
 - [ ] [I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
 
