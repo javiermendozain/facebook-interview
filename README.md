@@ -43,9 +43,12 @@ Facebook engineering interview process
 ## Tools
 - [ ] [CoderPad](https://coderpad.io/)
 
+## Mock Interviews
+- [ ] [Watch technical mock interviews with engineers from Google, Amazon, and more](https://interviewing.io/recordings)
+- [ ] [Practice live interviews with peers](https://www.pramp.com)
+
 ## Other links:
-- [ ] [The Algorithm Design Manual (Please note this book is available
-through Google search as a free pdf version.)](http://www.amazon.com/Algorithm-Design-Manual-Steve-Skiena/dp/0387948600)
+- [ ] [The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steve-Skiena/dp/0387948600)
 - [x] [A Facebook developer shares 7 secrets to acing an engineering interview](https://www.businessinsider.com/how-to-prepare-for-facebook-engineering-interview-2016-3)
 - [ ] [Why did we build React?](https://reactjs.org/blog/2013/06/05/why-react.html)
 - [ ] [To see some of the questions Facebook has asked: Glassdoor Interview Questions](https://www.glassdoor.com/Interview/Facebook-Software-Engineer-Interview-Questions-EI_IE40772.0,8_KO9,26.htm?sort.sortType=RD&sort.ascending=false)
