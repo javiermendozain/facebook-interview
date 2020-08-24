@@ -51,17 +51,6 @@ Facebook engineering interview process
 ## Big O complexity
 - [ ] [To study runtime complexity: Big O Cheat Sheet](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity)
 
-## Other links:
-- [ ] [The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steve-Skiena/dp/0387948600)
-- [x] [A Facebook developer shares 7 secrets to acing an engineering interview](https://www.businessinsider.com/how-to-prepare-for-facebook-engineering-interview-2016-3)
-- [ ] [Why did we build React?](https://reactjs.org/blog/2013/06/05/why-react.html)
-- [ ] [To see some of the questions Facebook has asked: Glassdoor Interview Questions](https://www.glassdoor.com/Interview/Facebook-Software-Engineer-Interview-Questions-EI_IE40772.0,8_KO9,26.htm?sort.sortType=RD&sort.ascending=false)
-- [ ] [The Algorithm Design Canvas captures the thought process when solving an
-algorithmic problem. ](https://www.hiredintech.com/classrooms/algorithm-design/lesson/78)
-- [ ] [Gauge how prepared you are on CS fundamentals with more than 400 questions that
-will take from less than a minute to about an hour to solve. ](https://www.interviewbit.com/)
-
-
 ## JavaScript Language
 - [ ] [Learn JavaScript | MDN](https://developer.mozilla.org/en-US/Learn/JavaScript)
 - [ ] [A re-introduction to JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
@@ -81,3 +70,13 @@ will take from less than a minute to about an hour to solve. ](https://www.inter
 - [ ] [Cracking the Coding Interview](https://www.amazon.com/dp/0984782850/)
 - [ ] [Introduction to Algorithms](https://www.amazon.com/dp/0262033844)
 - [ ] [Algorithms in C](https://www.amazon.com/Algorithms-Parts-1-5-Bundle-Fundamentals/dp/0201756080)
+
+## Other links:
+- [ ] [The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steve-Skiena/dp/0387948600)
+- [x] [A Facebook developer shares 7 secrets to acing an engineering interview](https://www.businessinsider.com/how-to-prepare-for-facebook-engineering-interview-2016-3)
+- [ ] [Why did we build React?](https://reactjs.org/blog/2013/06/05/why-react.html)
+- [ ] [To see some of the questions Facebook has asked: Glassdoor Interview Questions](https://www.glassdoor.com/Interview/Facebook-Software-Engineer-Interview-Questions-EI_IE40772.0,8_KO9,26.htm?sort.sortType=RD&sort.ascending=false)
+- [ ] [The Algorithm Design Canvas captures the thought process when solving an
+algorithmic problem. ](https://www.hiredintech.com/classrooms/algorithm-design/lesson/78)
+- [ ] [Gauge how prepared you are on CS fundamentals with more than 400 questions that
+will take from less than a minute to about an hour to solve. ](https://www.interviewbit.com/)
